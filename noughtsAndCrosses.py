@@ -11,6 +11,7 @@ i = 0
 
 def openGame():
     print("        1     2     3")
+    print("")
     print("     -------------------")
     print("A    I     I     I     I")
     print("     -------------------")
